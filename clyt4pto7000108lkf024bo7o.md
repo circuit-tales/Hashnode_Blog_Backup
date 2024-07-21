@@ -5,6 +5,7 @@ seoDescription: "Learn how to perform OTA updates on your ESP32 devices using th
 datePublished: Thu Jul 18 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clyt4pto7000108lkf024bo7o
 slug: a-step-by-step-guide-to-esp32-ota-updates-with-ota-drive
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721545440779/ab6f8213-d1dc-4b1c-b1d1-a1611ebb2746.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721419376879/c3c53f15-193b-497f-8bb4-4836e56946c4.webp
 tags: c-programming, iot, micro-controllers, vscode-cjevho8kk00bo1ss2lmqqjr51, firmware-development, esp32, embedded-systems, iot-security, iot-development-services, techtutorials, otaupdates, espidf, esp32projects, wifiprogramming
 
